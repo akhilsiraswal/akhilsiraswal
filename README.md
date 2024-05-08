@@ -1,6 +1,6 @@
 # Hi there, I'm Akhil Siraswal! 👋
 
-I'm a passionate software developer who loves to explore new technologies and contribute to open-source projects. 
+I'm a passionate software developer who loves to explore new technologies and strives to learn something new every day.
 
 🎓 **Education:**  
 - Completed B.Tech in 2023
