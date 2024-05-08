@@ -22,7 +22,7 @@ I'm a passionate software developer who loves to explore new technologies and co
 
 📫 **How to Reach Me:**  
 - LinkedIn: [Akhil Siraswal](https://www.linkedin.com/in/akhilsiraswal/)
-- Email: your.email@example.com
+- Email: akhilsiraswal@gmail.com
 
 Feel free to reach out for collaboration opportunities or just to say hi! 😊
 
