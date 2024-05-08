@@ -6,8 +6,8 @@ I'm a passionate software developer who loves to explore new technologies and st
 - Completed B.Tech in 2023
 
 💻 **Skills:**  
-- Languages: C++, JavaScript, Java, Python, Dart
-- Frameworks/Libraries: Node.js, React.js, Flutter, Express
+- Languages: C++, JavaScript, Java, Python, Dart, C#
+- Frameworks/Libraries: Node.js, React.js, Flutter, Express, .NET
 - Databases: SQL, MongoDB
 - Operating System: Linux
 
