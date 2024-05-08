@@ -1,4 +1,30 @@
-### Hi there 👋
+# Hi there, I'm Akhil Siraswal! 👋
+
+I'm a passionate software developer who loves to explore new technologies and contribute to open-source projects. 
+
+🎓 **Education:**  
+- Completed B.Tech in 2023
+
+💻 **Skills:**  
+- Languages: C++, JavaScript, Java, Python, Dart
+- Frameworks/Libraries: Node.js, React.js, Flutter, Express
+- Databases: SQL, MongoDB
+- Operating System: Linux
+
+🌱 **Currently Learning:**  
+- Flutter
+
+🤝 **Looking to Collaborate On:**  
+- Open-source projects
+
+🚀 **2024 Goal:**  
+- Master Flutter, build exciting applications, and contribute significantly to open source.
+
+📫 **How to Reach Me:**  
+- LinkedIn: [Akhil Siraswal](https://www.linkedin.com/in/akhilsiraswal/)
+- Email: your.email@example.com
+
+Feel free to reach out for collaboration opportunities or just to say hi! 😊
 
 <!--
 **akhilsiraswal/akhilsiraswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
